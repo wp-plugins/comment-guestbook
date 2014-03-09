@@ -168,3 +168,4 @@ Yes, you can create an instance of the "SC_Comment_Guestbook" class which locate
 == Upgrade Notice ==
 
 The easiest way to upgrade is the use the wordpress integrated update mechanism. No additional steps are required.
+
